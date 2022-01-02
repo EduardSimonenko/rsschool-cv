@@ -22,3 +22,14 @@ I am 21 years old and I am a final year student at the Belarusian State Universi
 + **Adobe Photoshop**
 
 ## Сode examples in Java on Github by *[reference](https://github.com/EduardSimonenko/Game-Rock-Paper-Scissors)*
+
+## Education:
+
+2021-2022
+: * **Website development using HTML, CSS and JavaScript**
+*High-Tech Park Education Center, Front-end Developer*
+: * **JavaScript/Front-end**
+*The Rolling Scopes School, Front-end Developer*
+
+## German level: B2
+## English level: A2+
