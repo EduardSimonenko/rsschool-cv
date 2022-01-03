@@ -35,8 +35,8 @@ main{
 }
 
 .brief-information{
+    display: inline-block;
     width: 30%;
-    border-right: 2px solid rgb(84, 84, 243);
     min-height: 200px;
     float: left;
     padding: 10px;
@@ -44,6 +44,9 @@ main{
 }
 
 .myself-description{
-    margin-left: 32%;
-    min-height: 200px;   
+    /* background-color: green; */
+    border-left: 2px solid rgb(84, 84, 243);
+    min-height: 200px;
+    margin-left: 32%; 
+    padding: 10px;
 }
