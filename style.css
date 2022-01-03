@@ -70,11 +70,13 @@ main{
 }
 
 .myself-description{
-    /* background-color: green; */
     border-left: 2px solid rgb(112, 153, 112);
-    min-height: 200px;
     margin-left: 32%; 
     padding: 10px;
+}
+
+.code pre{
+    overflow: auto;
 }
 
 footer{
@@ -95,4 +97,32 @@ footer .logo{
     right: 10vw;
     height: 30px;
     bottom: 22px;
+}
+
+@media(max-width: 1205px){
+
+    .brief-information{
+        width: 100%;
+        float: none;
+        
+    }  
+    
+    .myself-description{
+        border: none;
+        margin-left: 0; 
+        padding: 10px;
+    }
+}
+
+@media(max-width: 890px){
+    .image{
+        float: none;
+        width: 100%;
+    }
+}
+
+@media(max-width: 640px){
+    header{
+        display: none;
+    }
 }
