@@ -25,3 +25,25 @@ header{
 .header__subtitle{
     color: rgb(84, 84, 243);
 }
+
+main{
+    clear: both;
+    max-width: 100%;
+    margin: 20px auto;
+    position: relative;
+    padding: 0 10px;
+}
+
+.brief-information{
+    width: 30%;
+    border-right: 2px solid rgb(84, 84, 243);
+    min-height: 200px;
+    float: left;
+    padding: 10px;
+
+}
+
+.myself-description{
+    margin-left: 32%;
+    min-height: 200px;   
+}
