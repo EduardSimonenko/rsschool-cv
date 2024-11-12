@@ -1,35 +1,55 @@
-# Eduard Simonenko
-### Junior Front-End Developer
-***
-## Contacts:
-##### +375(29)228-71-13(MTS, Viber, telegram)
-##### Email: edik.simonenko2019@gmail.com
-##### Github: [https://github.com/EduardSimonenko](https://github.com/EduardSimonenko)
-***
-## Self introduction:
-I am 21 years old and I am a final year student at the Belarusian State University, in the Faculty of International Relations, specializing in customs. I like studying, I am an active student, I am involved in various activities of the university. I think that for successful learning I need a lot of practice, therefore, to improve my level of German I've been working in Germany for 3 months. As for additional education, I studied the basics of Java on my own, and at the moment I'm taking a course in IT academy in the direction of "Frontend developer", as well as courses in rs-school. At the end of the course I will have the following skills: 
-## Skills:
-+ **HTML5**
-+ **CSS3 (SASS, SCSS)**
-+ **JavaScript (ES5, ES6)**
-+ **JSON**
-+ **NPM**
-+ **Gulp, Webpack**
-+ **Git**
-+ **Libraries (jQuery, wow.js, owl.carousel, animate)**
-+ **VSCode, Sublime Text 3**
-+ **Chrome Dev Tools, ESLint, Prettier**
-+ **Adobe Photoshop**
+# 🎉 Eduard Simonenko
+### 💻 Full-stack Developer
+---
 
-## Сode examples in Java on Github by *[reference](https://github.com/EduardSimonenko/Game-Rock-Paper-Scissors)*
+## 📞 Contacts:
+- **Phone**: +375(29)228-71-13 (MTS, Viber, Telegram)
+- **Email**: [edik.simonenko2019@gmail.com](mailto:edik.simonenko2019@gmail.com)
+- **GitHub**: [EduardSimonenko](https://github.com/EduardSimonenko)
 
-## Education:
+---
 
-2021-2022
-: * **Website development using HTML, CSS and JavaScript**
-*High-Tech Park Education Center, Front-end Developer*
-: * **JavaScript/Front-end**
-*The Rolling Scopes School, Front-end Developer*
+## 🛠️ Skills:
+- **PHP**
+- **JavaScript** (ES5, ES6)
+- **Bitrix**
+- **HTML5**
+- **CSS3** (SASS, SCSS)
+- **JSON**
+- **NPM**
+- **Gulp, Webpack**
+- **Git**
+- **Libraries** (jQuery, wow.js, owl.carousel, animate)
+- **Editor**: VSCode, Sublime Text 3
+- **Tools**: Chrome Dev Tools, ESLint, Prettier
+- **Design**: Adobe Photoshop
 
-## German level: B2
-## English level: A2+
+[<img align="left" alt="CodeWars" width="300px" src="https://www.codewars.com/users/EduardSimonenko/badges/large"/>](codewars)</br>
+---
+
+## 💼 Job Experience:
+### **iMedia Solutions - Web Developer**
+*📅 November 2023 - Present*
+
+---
+
+## 🎓 Education:
+- **2021-2022**
+    - **Website development using HTML, CSS, and JavaScript**  
+      *High-Tech Park Education Center, Front-end Developer*
+
+    - **JavaScript/Front-end**  
+      *The Rolling Scopes School, Front-end Developer*
+    - **And many more..**
+
+---
+
+## 🌍 Language Proficiency:
+- **German**: A2+
+- **English**: A2+
+
+---
+
+## 🌟 Additional Information:
+- Passionate about continuous learning and keeping up with the latest web technologies.
+- Interested in contributing to open-source projects and collaborating with other developers.
