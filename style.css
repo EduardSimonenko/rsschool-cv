@@ -53,6 +53,7 @@ main{
     margin: 20px 10vw;
     position: relative;
     padding: 0 10px;
+    min-height: calc(100vh - 115px);
 }
 
 .brief-information{
